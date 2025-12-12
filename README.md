@@ -520,14 +520,14 @@ Contribuições são bem-vindas! Para contribuir:
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT.
 
 ## 👥 Autores
 
 **Seu Nome**
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- Email: seu-email@exemplo.com
-- LinkedIn: [seu-linkedin](https://linkedin.com/in/seu-usuario)
+- GitHub: [@AthirsonLamonato](https://github.com/AthirsonLamonato)
+- Email: athirson.lamonato@gmail.com
+- LinkedIn: [athirsonlamonato]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/athirsonlamonato/))
 
 ## 🙏 Agradecimentos
 
@@ -540,7 +540,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 Para dúvidas, problemas ou sugestões:
 
 - **Issues:** [GitHub Issues](https://github.com/seu-usuario/aluguel_carros/issues)
-- **Email:** seu-email@exemplo.com
+- **Email:** athirson.lamonato@gmail.com
 - **Documentação Django:** [docs.djangoproject.com](https://docs.djangoproject.com/)
 
 ---
